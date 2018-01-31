@@ -1,0 +1,27 @@
+{
+  "name": "StoryQuiz",
+  "version": "0.0.1",
+  "homepage": "https://github.com/felixmichel/StoryQuiz",
+  "description": "tell a story with a quiz",
+  "main": "index.html",
+  "keywords": [
+    "carousel",
+    "quiz",
+    "storytelling"
+  ],
+  "authors": [
+    "Felix Michel"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ],
+  "dependencies": {
+    "bootstrap-sass": "~3.3.4",
+    "jquery": "~2.1.3",
+    "bourbon": "^4.2.7",
+    "font-awesome": "fontawesome#^4.6.3"
+  }
+}
