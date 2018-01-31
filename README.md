@@ -1,9 +1,9 @@
-# erbschaftsTool
-interactive tool with a fortune and legacy counter and a legacy tax calculator
+# storyQuiz
+interactive tool to tell a story using quiz functionalities
 
 ### Description ###
 
-* An interactive tool using bootstrap carousel (adapted to vertical mode) with a counter and calculator feature
+* An interactive tool using bootstrap carousel (adapted to vertical mode) with quiz features
 * 0.1
 
 ### How do I get set up? ###
